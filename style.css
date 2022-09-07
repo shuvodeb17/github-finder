@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#search-users {
+  margin-top: 2%;
+}
+.search-users-child {
+  border: 1px solid #ddd;
+  padding: 18px 16px;
+}
+footer {
+  background-color: #f7f9fb;
+}
+
+/* alerts */
+.alerts {
+  background-color: rgb(160, 26, 26);
+  text-align: center;
+  color: #fff;
+  display: none;
+}
+.alerts p {
+  padding: 10px;
+}
+/* show alert  */
+.show-alert{
+  display: block;
+}
